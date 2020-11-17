@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upwork.DiegoFerreira.Walmart", "Upwork.DiegoFerreira.Walmart\Upwork.DiegoFerreira.Walmart.csproj", "{206FC2BF-C634-4E20-88A9-1AB629023606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalmartScraper", "WalmartScraper\WalmartScraper.csproj", "{F06C3398-F934-4507-86F5-B14E7D3B6B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206FC2BF-C634-4E20-88A9-1AB629023606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206FC2BF-C634-4E20-88A9-1AB629023606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206FC2BF-C634-4E20-88A9-1AB629023606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206FC2BF-C634-4E20-88A9-1AB629023606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06C3398-F934-4507-86F5-B14E7D3B6B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06C3398-F934-4507-86F5-B14E7D3B6B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06C3398-F934-4507-86F5-B14E7D3B6B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06C3398-F934-4507-86F5-B14E7D3B6B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A01FBD-3771-4880-AADC-1F6BBCE5E581}
+	EndGlobalSection
+EndGlobal
